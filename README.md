@@ -1,4 +1,4 @@
-Link for this post is [here](https://jchav1996.github.io/IG-Post/)
+# Link for this post is [here](https://jchav1996.github.io/IG-Post/)
 
 # HTML Hello
 
